@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "web3-react",
+  "name": "topmonks-web3-react",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
   "author": "Noah Zinsmeister <noahwz@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoahZinsmeister/web3-react.git"
+    "url": "git://github.com/topmonks/web3-react.git"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
