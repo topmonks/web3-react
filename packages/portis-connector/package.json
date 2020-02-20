@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/portis-connector",
+  "name": "@topmonks-web3-react/portis-connector",
   "publishConfig": {
     "access": "public"
   },
@@ -40,5 +40,6 @@
     "@web3-react/types": "^6.0.7",
     "tiny-invariant": "^1.0.6"
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "gitHead": "906370ebb4698c2db4163db496f39b2af7af653e"
 }
