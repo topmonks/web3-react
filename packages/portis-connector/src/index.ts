@@ -22,6 +22,7 @@ const chainIdToNetwork: { [network: number]: string } = {
   15001: 'maticTestnet'
 }
 
+
 type Network = number | { chainId: string; [key: string]: any }
 
 interface PortisConnectorArguments {

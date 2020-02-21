@@ -11,7 +11,6 @@ const chainIdToNetwork: { [network: number]: string } = {
   100: 'xdai'
 }
 
-
 type Network = number | { chainId: number; [key: string]: any }
 
 interface SquarelinkConnectorArguments {
